@@ -1,0 +1,21 @@
+flowchart LR
+    NAV[Navigator
+position_setpoint_triplet] --> FWM[FixedWingModeManager
+control_auto/control_landing]
+    FWM --> LAT[fixed_wing_lateral_setpoint]
+    FWM --> LON[fixed_wing_longitudinal_setpoint]
+    FWM --> CFG[lateral/longitudinal_control_configuration]
+    LAT --> FWCTRL[FwLateralLongitudinalControl]
+    LON --> FWCTRL
+    CFG --> FWCTRL
+    FWCTRL --> ATT[vehicle_attitude_setpoint]
+    FWCTRL --> TECS[tecs_status]
+
+    subgraph Feature Hooks
+        SLF[Smart landing flare
+adjustment] --> FWM
+        MSL[Mission speed limiter
+airspeed clamp] --> FWM
+        EAL[Energy-aware loiter
+speed/bank scale] --> FWM
+    end

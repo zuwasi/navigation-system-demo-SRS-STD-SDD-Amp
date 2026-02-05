@@ -1,0 +1,17 @@
+flowchart TD
+    A[Clone PX4-Autopilot repository] --> B[High-level architecture scan]
+    B --> C{Scope size manageable for demo?}
+    C -- No --> D[Select subsystem: Fixed-wing navigation]
+    D --> E[Trace setpoint flow and control interfaces]
+    E --> F{Commercial opportunity?}
+    F -- Yes --> G[Define feature candidates]
+    G --> H{Meets safety and testability criteria?}
+    H -- Yes --> I[Select 3 features: Smart flare, Speed limiter, Energy-aware loiter]
+    H -- No --> G
+    I --> J[Draft SRS for each feature]
+    J --> K[Draft SDD for each feature]
+    K --> L[Draft STD test design]
+    L --> M[Draft STR sample results]
+    M --> N[Add traceability and change impact]
+    N --> O[Add market value, roadmap, risk, compliance]
+    O --> P[Commercial product slice complete]
