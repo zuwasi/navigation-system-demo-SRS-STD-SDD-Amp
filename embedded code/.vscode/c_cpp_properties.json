@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "ARM Cortex-A7",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/hal",
+                "${workspaceFolder}/drivers"
+            ],
+            "defines": [
+                "__ARM_ARCH_7A__",
+                "__ARM_NEON__"
+            ],
+            "compilerPath": "arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm",
+            "compilerArgs": [
+                "-mcpu=cortex-a7",
+                "-marm",
+                "-mfpu=neon-vfpv4",
+                "-mfloat-abi=hard"
+            ]
+        }
+    ],
+    "version": 4
+}

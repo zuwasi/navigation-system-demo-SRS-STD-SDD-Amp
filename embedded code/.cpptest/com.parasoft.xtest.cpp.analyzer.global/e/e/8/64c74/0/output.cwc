@@ -1,0 +1,4100 @@
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_init', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>47
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_deinit', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>129
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_write_blocking', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>228
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_read_blocking', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>308
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_write_async', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>379
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_read_async', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>421
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_get_state', EXTERN_LINKAGE_FUNC_RET_TYPE=['i2c_state_t']
+<l>463
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_irq_handler', EXTERN_LINKAGE_FUNC_RET_TYPE=['void']
+<l>478
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_init', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>49
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_deinit', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>56
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_write_blocking', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>67
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_read_blocking', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>79
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_write_async', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>91
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_read_async', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>103
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_get_state', EXTERN_LINKAGE_FUNC_RET_TYPE=['i2c_state_t']
+<l>111
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='i2c_irq_handler', EXTERN_LINKAGE_FUNC_RET_TYPE=['void']
+<l>117
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='gic_init', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>16
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='gic_enable_irq', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>23
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='gic_disable_irq', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>30
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='gic_set_priority', EXTERN_LINKAGE_FUNC_RET_TYPE=['status_t']
+<l>38
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='gic_acknowledge_irq', EXTERN_LINKAGE_FUNC_RET_TYPE=['unlong']
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='gic_end_of_irq', EXTERN_LINKAGE_FUNC_RET_TYPE=['void']
+<l>50
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='cpu_enable_irq', EXTERN_LINKAGE_FUNC_RET_TYPE=['void']
+<l>55
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-COMPATDECLS
+<b>EXTERN_LINKAGE_FUNC_SIGN='cpu_disable_irq', EXTERN_LINKAGE_FUNC_RET_TYPE=['void']
+<l>60
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=i2c_handle_t::
+<l>19
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=state QUALIFICATION=i2c_handle_t::
+<l>20
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=rx_buffer QUALIFICATION=i2c_handle_t::
+<l>21
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=tx_buffer QUALIFICATION=i2c_handle_t::
+<l>22
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=buffer_len QUALIFICATION=i2c_handle_t::
+<l>23
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=buffer_idx QUALIFICATION=i2c_handle_t::
+<l>24
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_address QUALIFICATION=i2c_handle_t::
+<l>25
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=callback QUALIFICATION=i2c_handle_t::
+<l>26
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=initialized QUALIFICATION=i2c_handle_t::
+<l>27
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>GLOBAL_VAR=g_i2c_handles QUALIFICATION=
+<l>31
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>49
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=handle QUALIFICATION=
+<l>62
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>63
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=pclk_mhz QUALIFICATION=
+<l>70
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=ccr_val QUALIFICATION=
+<l>74
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=irq_num QUALIFICATION=
+<l>111
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_0 QUALIFICATION=
+<l>14
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>131
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=handle QUALIFICATION=
+<l>139
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=irq_num QUALIFICATION=
+<l>145
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_0 QUALIFICATION=
+<l>14
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>161
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_TIMEOUT QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=counter QUALIFICATION=
+<l>162
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=flag_state QUALIFICATION=
+<l>166
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>200
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=addr_byte QUALIFICATION=
+<l>208
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>231
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_NOT_READY QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=handle QUALIFICATION=
+<l>252
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>253
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_TX QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=wait_count QUALIFICATION=
+<l>258
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_BUSY QUALIFICATION=
+<l>33
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_DIR_WRITE QUALIFICATION=
+<l>28
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=i QUALIFICATION=
+<l>279
+<k>28
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_ERROR QUALIFICATION=
+<l>37
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>311
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_NOT_READY QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=handle QUALIFICATION=
+<l>332
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>333
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_RX QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_DIR_READ QUALIFICATION=
+<l>29
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=i QUALIFICATION=
+<l>348
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_ERROR QUALIFICATION=
+<l>37
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>382
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_NOT_READY QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_BUSY QUALIFICATION=
+<l>33
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=handle QUALIFICATION=
+<l>402
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_TX QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>424
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_NOT_READY QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_BUSY QUALIFICATION=
+<l>33
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=handle QUALIFICATION=
+<l>444
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_RX QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=state QUALIFICATION=
+<l>465
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_ERROR QUALIFICATION=
+<l>37
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=handle QUALIFICATION=
+<l>482
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>483
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=sr1 QUALIFICATION=
+<l>484
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>485
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dir QUALIFICATION=
+<l>490
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_TX QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_RX QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_TX QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_RX QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_ERROR QUALIFICATION=
+<l>37
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_ERROR QUALIFICATION=
+<l>32
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>37
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=flag QUALIFICATION=
+<l>37
+<k>61
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=expected QUALIFICATION=
+<l>38
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=timeout QUALIFICATION=
+<l>38
+<k>52
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_wait_flag QUALIFICATION=
+<l>37
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>39
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_generate_start QUALIFICATION=
+<l>39
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>40
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_generate_stop QUALIFICATION=
+<l>40
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>41
+<k>46
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=addr QUALIFICATION=
+<l>41
+<k>57
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dir QUALIFICATION=
+<l>42
+<k>51
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=timeout QUALIFICATION=
+<l>42
+<k>62
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_send_address QUALIFICATION=
+<l>41
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>47
+<k>34
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=config QUALIFICATION=
+<l>47
+<k>64
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_init QUALIFICATION=
+<l>47
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>129
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_deinit QUALIFICATION=
+<l>129
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>158
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=flag QUALIFICATION=
+<l>158
+<k>61
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=expected QUALIFICATION=
+<l>159
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=timeout QUALIFICATION=
+<l>159
+<k>52
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_wait_flag QUALIFICATION=
+<l>158
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>181
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_generate_start QUALIFICATION=
+<l>181
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>189
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_generate_stop QUALIFICATION=
+<l>189
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=regs QUALIFICATION=
+<l>197
+<k>46
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=addr QUALIFICATION=
+<l>197
+<k>57
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dir QUALIFICATION=
+<l>198
+<k>51
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=timeout QUALIFICATION=
+<l>198
+<k>62
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_send_address QUALIFICATION=
+<l>197
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>228
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_addr QUALIFICATION=
+<l>228
+<k>59
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=data QUALIFICATION=
+<l>229
+<k>41
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=len QUALIFICATION=
+<l>229
+<k>53
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=timeout_ms QUALIFICATION=
+<l>229
+<k>64
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_write_blocking QUALIFICATION=
+<l>228
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>308
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_addr QUALIFICATION=
+<l>308
+<k>58
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=data QUALIFICATION=
+<l>309
+<k>34
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=len QUALIFICATION=
+<l>309
+<k>46
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=timeout_ms QUALIFICATION=
+<l>309
+<k>57
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_read_blocking QUALIFICATION=
+<l>308
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>379
+<k>41
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_addr QUALIFICATION=
+<l>379
+<k>56
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=data QUALIFICATION=
+<l>380
+<k>38
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=len QUALIFICATION=
+<l>380
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>41
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>41
+<k>66
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=callback QUALIFICATION=
+<l>380
+<k>70
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_write_async QUALIFICATION=
+<l>379
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>421
+<k>40
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_addr QUALIFICATION=
+<l>421
+<k>55
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=data QUALIFICATION=
+<l>422
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=len QUALIFICATION=
+<l>422
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>41
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>41
+<k>66
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=callback QUALIFICATION=
+<l>422
+<k>63
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_read_async QUALIFICATION=
+<l>421
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>463
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_get_state QUALIFICATION=
+<l>463
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>478
+<k>37
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_irq_handler QUALIFICATION=
+<l>478
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=i2c_handle_t::
+<l>41
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=i2c_handle_t::
+<l>41
+<k>66
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=i2c_handle_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>28
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_0 QUALIFICATION=
+<l>14
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_1 QUALIFICATION=
+<l>15
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_INSTANCE_MAX QUALIFICATION=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=clock_speed QUALIFICATION=i2c_config_t::
+<l>21
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=own_address QUALIFICATION=i2c_config_t::
+<l>22
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=use_interrupts QUALIFICATION=i2c_config_t::
+<l>23
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_DIR_WRITE QUALIFICATION=
+<l>28
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_DIR_READ QUALIFICATION=
+<l>29
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_IDLE QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_TX QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_BUSY_RX QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=I2C_STATE_ERROR QUALIFICATION=
+<l>37
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>49
+<k>34
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=config QUALIFICATION=
+<l>49
+<k>64
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_init QUALIFICATION=
+<l>49
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>56
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_deinit QUALIFICATION=
+<l>56
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>67
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_addr QUALIFICATION=
+<l>67
+<k>59
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=data QUALIFICATION=
+<l>68
+<k>41
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=len QUALIFICATION=
+<l>68
+<k>53
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=timeout_ms QUALIFICATION=
+<l>68
+<k>64
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_write_blocking QUALIFICATION=
+<l>67
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>79
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_addr QUALIFICATION=
+<l>79
+<k>58
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=data QUALIFICATION=
+<l>80
+<k>34
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=len QUALIFICATION=
+<l>80
+<k>46
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=timeout_ms QUALIFICATION=
+<l>80
+<k>57
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_read_blocking QUALIFICATION=
+<l>79
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>91
+<k>41
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_addr QUALIFICATION=
+<l>91
+<k>56
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=data QUALIFICATION=
+<l>92
+<k>38
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=len QUALIFICATION=
+<l>92
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>41
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>41
+<k>66
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=callback QUALIFICATION=
+<l>92
+<k>70
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_write_async QUALIFICATION=
+<l>91
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>103
+<k>40
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=dev_addr QUALIFICATION=
+<l>103
+<k>55
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=data QUALIFICATION=
+<l>104
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=len QUALIFICATION=
+<l>104
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>41
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>41
+<k>66
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=callback QUALIFICATION=
+<l>104
+<k>63
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_read_async QUALIFICATION=
+<l>103
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>111
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_get_state QUALIFICATION=
+<l>111
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>117
+<k>37
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=i2c_irq_handler QUALIFICATION=
+<l>117
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=instance QUALIFICATION=
+<l>41
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=result QUALIFICATION=
+<l>41
+<k>66
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=i2c_instance_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>17
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=i2c_config_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>24
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=i2c_direction_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>30
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=i2c_state_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>38
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=i2c_callback_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>41
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_OK QUALIFICATION=
+<l>31
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_ERROR QUALIFICATION=
+<l>32
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_BUSY QUALIFICATION=
+<l>33
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_TIMEOUT QUALIFICATION=
+<l>34
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_INVALID_PARAM QUALIFICATION=
+<l>35
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=STATUS_NOT_READY QUALIFICATION=
+<l>36
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=RESULT_FALSE QUALIFICATION=
+<l>41
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=RESULT_TRUE QUALIFICATION=
+<l>42
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=u8_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>15
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=u16_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>16
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=u32_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>17
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=u64_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>18
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=s8_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>19
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=s16_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>20
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=s32_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>21
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=s64_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>22
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=vu8_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>25
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=vu16_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>26
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=vu32_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>27
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=status_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>37
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=result_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>43
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=CR1 QUALIFICATION=i2c_regs_t::
+<l>38
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=CR2 QUALIFICATION=i2c_regs_t::
+<l>39
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=OAR1 QUALIFICATION=i2c_regs_t::
+<l>40
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=OAR2 QUALIFICATION=i2c_regs_t::
+<l>41
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=DR QUALIFICATION=i2c_regs_t::
+<l>42
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=SR1 QUALIFICATION=i2c_regs_t::
+<l>43
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=SR2 QUALIFICATION=i2c_regs_t::
+<l>44
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=CCR QUALIFICATION=i2c_regs_t::
+<l>45
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=TRISE QUALIFICATION=i2c_regs_t::
+<l>46
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=MODER QUALIFICATION=gpio_regs_t::
+<l>68
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=OTYPER QUALIFICATION=gpio_regs_t::
+<l>69
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=OSPEEDR QUALIFICATION=gpio_regs_t::
+<l>70
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=PUPDR QUALIFICATION=gpio_regs_t::
+<l>71
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=IDR QUALIFICATION=gpio_regs_t::
+<l>72
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=ODR QUALIFICATION=gpio_regs_t::
+<l>73
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=BSRR QUALIFICATION=gpio_regs_t::
+<l>74
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=LCKR QUALIFICATION=gpio_regs_t::
+<l>75
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=AFRL QUALIFICATION=gpio_regs_t::
+<l>76
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=AFRH QUALIFICATION=gpio_regs_t::
+<l>77
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=i2c_regs_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>47
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>TYPEDEF=gpio_regs_t QUALIFICATION= ASSOC_TYPE_LOC=
+<l>78
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=gic_init QUALIFICATION=
+<l>16
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=irq_num QUALIFICATION=
+<l>23
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=gic_enable_irq QUALIFICATION=
+<l>23
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=irq_num QUALIFICATION=
+<l>30
+<k>32
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=gic_disable_irq QUALIFICATION=
+<l>30
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=irq_num QUALIFICATION=
+<l>38
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=priority QUALIFICATION=
+<l>38
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=gic_set_priority QUALIFICATION=
+<l>38
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=gic_acknowledge_irq QUALIFICATION=
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>IDENTIFIER=irq_num QUALIFICATION=
+<l>50
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=gic_end_of_irq QUALIFICATION=
+<l>50
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=cpu_enable_irq QUALIFICATION=
+<l>55
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALIFIEDID
+<b>FUNCTION=cpu_disable_irq QUALIFICATION=
+<l>60
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION='i2c_init'
+<l>47
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION='i2c_deinit'
+<l>129
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION='i2c_write_blocking'
+<l>228
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION='i2c_read_blocking'
+<l>308
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION='i2c_write_async'
+<l>379
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION='i2c_read_async'
+<l>421
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION='i2c_get_state'
+<l>463
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION='i2c_irq_handler'
+<l>478
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNAL-USAGE
+<b>EXT_OBJ_USE_SET=set([]); EXT_FUN_USE_SET=set(['gic_set_priority', 'gic_enable_irq', 'gic_disable_irq'])
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='i2c_init'
+<l>47
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='i2c_deinit'
+<l>129
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='i2c_write_blocking'
+<l>228
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='i2c_read_blocking'
+<l>308
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='i2c_write_async'
+<l>379
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='i2c_read_async'
+<l>421
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='i2c_get_state'
+<l>463
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION='i2c_irq_handler'
+<l>478
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_VAR=g_i2c_handles QUALIFICATION=
+<l>31
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_FUNC=i2c_wait_flag QUALIFICATION= MANGLED_FUN_NAME=i2c_wait_flag@decl
+<l>37
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_FUNC=i2c_generate_start QUALIFICATION= MANGLED_FUN_NAME=i2c_generate_start@decl
+<l>39
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_FUNC=i2c_generate_stop QUALIFICATION= MANGLED_FUN_NAME=i2c_generate_stop@decl
+<l>40
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_FUNC=i2c_send_address QUALIFICATION= MANGLED_FUN_NAME=i2c_send_address@decl
+<l>41
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_init QUALIFICATION= MANGLED_FUN_NAME=i2c_init@def
+<l>47
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_deinit QUALIFICATION= MANGLED_FUN_NAME=i2c_deinit@def
+<l>129
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_FUNC=i2c_wait_flag QUALIFICATION= MANGLED_FUN_NAME=i2c_wait_flag@def
+<l>158
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_FUNC=i2c_generate_start QUALIFICATION= MANGLED_FUN_NAME=i2c_generate_start@def
+<l>181
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_FUNC=i2c_generate_stop QUALIFICATION= MANGLED_FUN_NAME=i2c_generate_stop@def
+<l>189
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>STATIC_FUNC=i2c_send_address QUALIFICATION= MANGLED_FUN_NAME=i2c_send_address@def
+<l>197
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_write_blocking QUALIFICATION= MANGLED_FUN_NAME=i2c_write_blocking@def
+<l>228
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_read_blocking QUALIFICATION= MANGLED_FUN_NAME=i2c_read_blocking@def
+<l>308
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_write_async QUALIFICATION= MANGLED_FUN_NAME=i2c_write_async@def
+<l>379
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_read_async QUALIFICATION= MANGLED_FUN_NAME=i2c_read_async@def
+<l>421
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_get_state QUALIFICATION= MANGLED_FUN_NAME=i2c_get_state@def
+<l>463
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_irq_handler QUALIFICATION= MANGLED_FUN_NAME=i2c_irq_handler@def
+<l>478
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_init'
+<l>49
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_deinit'
+<l>56
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_write_blocking'
+<l>67
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_read_blocking'
+<l>79
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_write_async'
+<l>91
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_read_async'
+<l>103
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_get_state'
+<l>111
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_irq_handler'
+<l>117
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNAL-USAGE
+<b>EXT_OBJ_USE_SET=set([]); EXT_FUN_USE_SET=set([])
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_init'
+<l>49
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_deinit'
+<l>56
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_write_blocking'
+<l>67
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_read_blocking'
+<l>79
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_write_async'
+<l>91
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_read_async'
+<l>103
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_get_state'
+<l>111
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='i2c_irq_handler'
+<l>117
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_init QUALIFICATION= MANGLED_FUN_NAME=i2c_init@decl
+<l>49
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_deinit QUALIFICATION= MANGLED_FUN_NAME=i2c_deinit@decl
+<l>56
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_write_blocking QUALIFICATION= MANGLED_FUN_NAME=i2c_write_blocking@decl
+<l>67
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_read_blocking QUALIFICATION= MANGLED_FUN_NAME=i2c_read_blocking@decl
+<l>79
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_write_async QUALIFICATION= MANGLED_FUN_NAME=i2c_write_async@decl
+<l>91
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_read_async QUALIFICATION= MANGLED_FUN_NAME=i2c_read_async@decl
+<l>103
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_get_state QUALIFICATION= MANGLED_FUN_NAME=i2c_get_state@decl
+<l>111
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=i2c_irq_handler QUALIFICATION= MANGLED_FUN_NAME=i2c_irq_handler@decl
+<l>117
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>INTERNAL-GLOBAL-EXTERNAL-USAGE
+<b>EXT_OBJ_USE_SET=set([]); EXT_FUN_USE_SET=set([])
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>INTERNAL-GLOBAL-EXTERNAL-USAGE
+<b>EXT_OBJ_USE_SET=set([]); EXT_FUN_USE_SET=set([])
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_init'
+<l>16
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_enable_irq'
+<l>23
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_disable_irq'
+<l>30
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_set_priority'
+<l>38
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_acknowledge_irq'
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_end_of_irq'
+<l>50
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='cpu_enable_irq'
+<l>55
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-DEFINITION
+<b>EXTERN_LINKAGE_FUNCTION_DECL='cpu_disable_irq'
+<l>60
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNAL-USAGE
+<b>EXT_OBJ_USE_SET=set([]); EXT_FUN_USE_SET=set([])
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_init'
+<l>16
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_enable_irq'
+<l>23
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_disable_irq'
+<l>30
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_set_priority'
+<l>38
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_acknowledge_irq'
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='gic_end_of_irq'
+<l>50
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='cpu_enable_irq'
+<l>55
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-EXTERNDEF
+<b>EXTERN_LINKAGE_FUNCTION_DECL='cpu_disable_irq'
+<l>60
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=gic_init QUALIFICATION= MANGLED_FUN_NAME=gic_init@decl
+<l>16
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=gic_enable_irq QUALIFICATION= MANGLED_FUN_NAME=gic_enable_irq@decl
+<l>23
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=gic_disable_irq QUALIFICATION= MANGLED_FUN_NAME=gic_disable_irq@decl
+<l>30
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=gic_set_priority QUALIFICATION= MANGLED_FUN_NAME=gic_set_priority@decl
+<l>38
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=gic_acknowledge_irq QUALIFICATION= MANGLED_FUN_NAME=gic_acknowledge_irq@decl
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=gic_end_of_irq QUALIFICATION= MANGLED_FUN_NAME=gic_end_of_irq@decl
+<l>50
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=cpu_enable_irq QUALIFICATION= MANGLED_FUN_NAME=cpu_enable_irq@decl
+<l>55
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.h
+<c>INTERNAL-GLOBAL-QUALFUNCVAR
+<b>EXTERNAL_LINKAGE_FUNC=cpu_disable_irq QUALIFICATION= MANGLED_FUN_NAME=cpu_disable_irq@decl
+<l>60
+<k>6
+<s>false
+<N>
+<f>
+<L>0

@@ -1,0 +1,220 @@
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+<l>20
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+<l>25
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+<l>31
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+<l>37
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+<l>41
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+<l>44
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+<l>45
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+<l>69
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+<l>94
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+<l>118
+<k>28
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+<l>123
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+<l>136
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+<l>144
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-157
+<b>The value of a composite expression (8 bit essential type) is assigned to an object with wider essential type (32 bit)
+<l>69
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>CODSTA-157
+<b>The value of a composite expression (8 bit essential type) is assigned to an object with wider essential type (32 bit)
+<l>94
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>COMMENT-09
+<b>Assembly language code is not commented
+<l>47
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>COMMENT-09
+<b>Assembly language code is not commented
+<l>48
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>COMMENT-09
+<b>Assembly language code is not commented
+<l>70
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>COMMENT-09
+<b>Assembly language code is not commented
+<l>95
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>COMMENT-09
+<b>Assembly language code is not commented
+<l>145
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>COMMENT-09
+<b>Assembly language code is not commented
+<l>153
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\hal\hal_gic.c
+<c>COMMENT-09
+<b>Assembly language code is not commented
+<l>166
+<k>5
+<s>false
+<N>
+<f>
+<L>0

@@ -1,0 +1,92 @@
+Rule,Level,File,Line,Description
+MISRAC2012-RULE_2_5-a,Advisory,src\main.c,24,An unused macro declaration 'SENSOR_ADDR_ACCEL' has been found
+MISRAC2012-RULE_17_12-a,Advisory,src\main.c,168,Pointer to function 'i2c_complete_handler' should be preceded by '&' operator or followed by '()'
+MISRAC2012-RULE_17_12-a,Advisory,src\main.c,222,Pointer to function 'ble_event_handler' should be preceded by '&' operator or followed by '()'
+MISRAC2012-RULE_15_5-a,Advisory,src\main.c,60,'return' statement should be at the end of the 'ble_event_handler' function
+MISRAC2012-RULE_15_5-a,Advisory,src\main.c,121,'return' statement should be at the end of the 'process_ble_command' function
+MISRAC2012-RULE_15_5-a,Advisory,src\main.c,195,Provide only one exit point in 'app_init' function
+MISRAC2012-RULE_15_5-a,Advisory,src\main.c,209,Provide only one exit point in 'app_init' function
+MISRAC2012-RULE_15_5-a,Advisory,src\main.c,226,Provide only one exit point in 'app_init' function
+MISRAC2012-RULE_15_5-a,Advisory,src\main.c,234,Provide only one exit point in 'app_init' function
+MISRAC2012-RULE_13_3-a,Advisory,src\main.c,282,The '--' operator should cause the only side effect in an expression
+MISRAC2012-DIR_4_9-a,Advisory,include\arm_a7_regs.h,25,Do not define function-like macro: GICD_ISENABLER
+MISRAC2012-DIR_4_9-a,Advisory,include\arm_a7_regs.h,26,Do not define function-like macro: GICD_ICENABLER
+MISRAC2012-DIR_4_9-a,Advisory,include\arm_a7_regs.h,27,Do not define function-like macro: GICD_IPRIORITYR
+MISRAC2012-DIR_4_9-a,Advisory,include\arm_a7_regs.h,28,Do not define function-like macro: GICD_ITARGETSR
+MISRAC2012-DIR_4_9-a,Advisory,include\arm_a7_regs.h,29,Do not define function-like macro: GICD_ICFGR
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,46,Do not define function-like macro: IS_NULL_PTR
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,47,Do not define function-like macro: IS_VALID_PTR
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,50,Do not define function-like macro: BIT_SET
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,51,Do not define function-like macro: BIT_CLEAR
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,52,Do not define function-like macro: BIT_TOGGLE
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,53,Do not define function-like macro: BIT_CHECK
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,56,Do not define function-like macro: DMB
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,57,Do not define function-like macro: DSB
+MISRAC2012-DIR_4_9-a,Advisory,include\types.h,58,Do not define function-like macro: ISB
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,20,Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,25,Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,31,Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,37,Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,41,Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,44,Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,45,Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,69,Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,94,Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,118,Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,123,Integral type 'unsigned long' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,136,Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_11_4-a,Required,hal\hal_gic.c,144,Integral type 'unsigned int' should not be converted to pointer to object type 'vu32_t *'
+MISRAC2012-RULE_10_6-a,Required,hal\hal_gic.c,69,The value of a composite expression (8 bit essential type) is assigned to an object with wider essential type (32 bit)
+MISRAC2012-RULE_10_6-a,Required,hal\hal_gic.c,94,The value of a composite expression (8 bit essential type) is assigned to an object with wider essential type (32 bit)
+MISRAC2012-DIR_4_2-a,Advisory,hal\hal_gic.c,47,Assembly language code is not commented
+MISRAC2012-DIR_4_2-a,Advisory,hal\hal_gic.c,48,Assembly language code is not commented
+MISRAC2012-DIR_4_2-a,Advisory,hal\hal_gic.c,70,Assembly language code is not commented
+MISRAC2012-DIR_4_2-a,Advisory,hal\hal_gic.c,95,Assembly language code is not commented
+MISRAC2012-DIR_4_2-a,Advisory,hal\hal_gic.c,145,Assembly language code is not commented
+MISRAC2012-DIR_4_2-a,Advisory,hal\hal_gic.c,153,Assembly language code is not commented
+MISRAC2012-DIR_4_2-a,Advisory,hal\hal_gic.c,166,Assembly language code is not commented
+MISRAC2012-RULE_12_2-a,Required,hal\hal_gic.c,69,Shifting by number of bits greater or equal(23) to number of bits of shifted variable(8)
+MISRAC2012-RULE_12_2-a,Required,hal\hal_gic.c,94,Shifting by number of bits greater or equal(16) to number of bits of shifted variable(8)
+MISRAC2012-RULE_12_2-a,Required,hal\hal_gic.c,120,Shifting by number of bits greater or equal(24) to number of bits of shifted variable(8)
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,66,Do not shift by '15' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,67,Do not shift by '15' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,106,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,116,Do not shift by '9' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,116,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,183,Do not shift by '8' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,191,Do not shift by '9' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,338,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,353,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,453,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,501,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,535,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,550,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_12_2-b,Required,drivers\i2c_driver.c,552,Do not shift by '10' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_11_4-a,Required,drivers\i2c_driver.c,32,Integral type 'unsigned int' should not be converted to pointer to object type 'i2c_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\i2c_driver.c,33,Integral type 'unsigned int' should not be converted to pointer to object type 'i2c_regs_t *'
+MISRAC2012-RULE_10_7-a,Required,drivers\i2c_driver.c,166,Essential type of LHS operand (32 bit) is wider than essential type of composite expression in RHS operand (8 bit)
+MISRAC2012-RULE_14_2-c,Required,drivers\i2c_driver.c,279,The second clause of a 'for' statement contains an object that is modified inside the loop body: 'result'
+MISRAC2012-RULE_14_2-c,Required,drivers\i2c_driver.c,348,The second clause of a 'for' statement contains an object that is modified inside the loop body: 'result'
+MISRAC2012-RULE_12_2-b,Required,drivers\ble_driver.c,445,Do not shift by '8' bits valid range is from '0' to '7' bits
+MISRAC2012-RULE_2_5-a,Advisory,drivers\ble_driver.c,45,An unused macro declaration 'BLE_STATUS_CONNECTED' has been found
+MISRAC2012-RULE_2_5-a,Advisory,drivers\ble_driver.c,46,An unused macro declaration 'BLE_STATUS_ADV_ACTIVE' has been found
+MISRAC2012-RULE_2_5-a,Advisory,drivers\ble_driver.c,47,An unused macro declaration 'BLE_STATUS_SCAN_ACTIVE' has been found
+MISRAC2012-RULE_2_5-a,Advisory,drivers\ble_driver.c,49,An unused macro declaration 'BLE_STATUS_RX_READY' has been found
+MISRAC2012-RULE_2_5-a,Advisory,drivers\ble_driver.c,56,An unused macro declaration 'BLE_INT_ADV_DONE' has been found
+MISRAC2012-RULE_2_5-a,Advisory,drivers\ble_driver.c,57,An unused macro declaration 'BLE_INT_SCAN_RESULT' has been found
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,109,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,196,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,230,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,260,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,291,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,317,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,348,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,385,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,419,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,529,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_11_4-a,Required,drivers\ble_driver.c,585,Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+MISRAC2012-RULE_13_3-a,Advisory,drivers\ble_driver.c,118,The '--' operator should cause the only side effect in an expression
+MISRAC2012-RULE_10_8-a,Required,drivers\ble_driver.c,141,Composite expression with 'signed' essential type category shall not be cast to different essential type category 'unsigned'
+MISRAC2012-RULE_10_8-a,Required,drivers\ble_driver.c,144,Composite expression with 'unsigned' essential type category and size of '16' bits shall not be cast to wider essential type of '32' bits
+MISRAC2012-DIR_4_1-a,Required,drivers\ble_driver.c,440,Possibly accessing array 'data' out of bounds at index [1...243]. Correct index(es): [-6...17]
+MISRAC2012-RULE_18_1-a,Mandatory,drivers\ble_driver.c,440,Possibly accessing array 'data' out of bounds at index [1...243]. Correct index(es): [-6...17]

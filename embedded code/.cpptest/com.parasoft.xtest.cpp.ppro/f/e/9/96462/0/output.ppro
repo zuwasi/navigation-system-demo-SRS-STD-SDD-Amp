@@ -1,0 +1,545 @@
+PProDataFile version 3.3
+
+H 0 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stdint-gcc.h
+
+H 1 Command line
+
+K o
+I __INT8_TYPE__
+F 0
+L 34
+S 34
+f 1
+l -1
+EOR
+
+K o
+I __INT16_TYPE__
+F 0
+L 37
+S 37
+f 1
+l -1
+EOR
+
+K o
+I __INT32_TYPE__
+F 0
+L 40
+S 40
+f 1
+l -1
+EOR
+
+K o
+I __INT64_TYPE__
+F 0
+L 43
+S 43
+f 1
+l -1
+EOR
+
+K o
+I __UINT8_TYPE__
+F 0
+L 46
+S 46
+f 1
+l -1
+EOR
+
+K o
+I __UINT16_TYPE__
+F 0
+L 49
+S 49
+f 1
+l -1
+EOR
+
+K o
+I __UINT32_TYPE__
+F 0
+L 52
+S 52
+f 1
+l -1
+EOR
+
+K o
+I __UINT64_TYPE__
+F 0
+L 55
+S 55
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST8_TYPE__
+F 0
+L 60
+S 60
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST16_TYPE__
+F 0
+L 61
+S 61
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST32_TYPE__
+F 0
+L 62
+S 62
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST64_TYPE__
+F 0
+L 63
+S 63
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST8_TYPE__
+F 0
+L 64
+S 64
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST16_TYPE__
+F 0
+L 65
+S 65
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST32_TYPE__
+F 0
+L 66
+S 66
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST64_TYPE__
+F 0
+L 67
+S 67
+f 1
+l -1
+EOR
+
+K o
+I __INT_FAST8_TYPE__
+F 0
+L 71
+S 71
+f 1
+l -1
+EOR
+
+K o
+I __INT_FAST16_TYPE__
+F 0
+L 72
+S 72
+f 1
+l -1
+EOR
+
+K o
+I __INT_FAST32_TYPE__
+F 0
+L 73
+S 73
+f 1
+l -1
+EOR
+
+K o
+I __INT_FAST64_TYPE__
+F 0
+L 74
+S 74
+f 1
+l -1
+EOR
+
+K o
+I __UINT_FAST8_TYPE__
+F 0
+L 75
+S 75
+f 1
+l -1
+EOR
+
+K o
+I __UINT_FAST16_TYPE__
+F 0
+L 76
+S 76
+f 1
+l -1
+EOR
+
+K o
+I __UINT_FAST32_TYPE__
+F 0
+L 77
+S 77
+f 1
+l -1
+EOR
+
+K o
+I __UINT_FAST64_TYPE__
+F 0
+L 78
+S 78
+f 1
+l -1
+EOR
+
+K o
+I __INTPTR_TYPE__
+F 0
+L 83
+S 83
+f 1
+l -1
+EOR
+
+K o
+I __UINTPTR_TYPE__
+F 0
+L 86
+S 86
+f 1
+l -1
+EOR
+
+K o
+I __INTMAX_TYPE__
+F 0
+L 91
+S 91
+f 1
+l -1
+EOR
+
+K o
+I __UINTMAX_TYPE__
+F 0
+L 92
+S 92
+f 1
+l -1
+EOR
+
+H 2 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stddef.h
+
+K o
+I __PTRDIFF_TYPE__
+F 2
+L 145
+S 145
+f 1
+l -1
+EOR
+
+K o
+I __SIZE_TYPE__
+F 2
+L 214
+S 214
+f 1
+l -1
+EOR
+
+K o
+I __WCHAR_TYPE__
+F 2
+L 329
+S 329
+f 1
+l -1
+EOR
+
+H 3 C:\elbit-demo\embedded code\hal\hal_gic.c
+
+H 4 C:\elbit-demo\embedded code\include\arm_a7_regs.h
+
+K o
+I GICD_CTLR
+F 3
+L 20
+S 20
+f 4
+l 24
+EOR
+
+K o
+I MAX_IRQ_NUM
+F 3
+L 23
+S 23
+f 3
+l 11
+EOR
+
+K f
+I GICD_IPRIORITYR
+F 3
+L 25
+S 25
+f 4
+l 27
+EOR
+
+K o
+I MAX_IRQ_NUM
+F 3
+L 29
+S 29
+f 3
+l 11
+EOR
+
+K f
+I GICD_ITARGETSR
+F 3
+L 31
+S 31
+f 4
+l 28
+EOR
+
+K o
+I MAX_IRQ_NUM
+F 3
+L 35
+S 35
+f 3
+l 11
+EOR
+
+K f
+I GICD_ICFGR
+F 3
+L 37
+S 37
+f 4
+l 29
+EOR
+
+K o
+I GICD_CTLR
+F 3
+L 41
+S 41
+f 4
+l 24
+EOR
+
+K o
+I GICC_PMR
+F 3
+L 44
+S 44
+f 4
+l 32
+EOR
+
+K o
+I GICC_CTLR
+F 3
+L 45
+S 45
+f 4
+l 31
+EOR
+
+H 5 C:\elbit-demo\embedded code\include\types.h
+
+K f
+I DSB
+F 3
+L 47
+S 47
+f 5
+l 57
+EOR
+
+K f
+I ISB
+F 3
+L 48
+S 48
+f 5
+l 58
+EOR
+
+K o
+I MAX_IRQ_NUM
+F 3
+L 60
+S 60
+f 3
+l 11
+EOR
+
+K o
+I IRQS_PER_REGISTER
+F 3
+L 66
+S 66
+f 3
+l 12
+EOR
+
+K o
+I IRQS_PER_REGISTER
+F 3
+L 67
+S 67
+f 3
+l 12
+EOR
+
+K f
+I GICD_ISENABLER
+F 3
+L 69
+S 69
+f 4
+l 25
+EOR
+
+K f
+I DSB
+F 3
+L 70
+S 70
+f 5
+l 57
+EOR
+
+K o
+I MAX_IRQ_NUM
+F 3
+L 85
+S 85
+f 3
+l 11
+EOR
+
+K o
+I IRQS_PER_REGISTER
+F 3
+L 91
+S 91
+f 3
+l 12
+EOR
+
+K o
+I IRQS_PER_REGISTER
+F 3
+L 92
+S 92
+f 3
+l 12
+EOR
+
+K f
+I GICD_ICENABLER
+F 3
+L 94
+S 94
+f 4
+l 26
+EOR
+
+K f
+I DSB
+F 3
+L 95
+S 95
+f 5
+l 57
+EOR
+
+K o
+I MAX_IRQ_NUM
+F 3
+L 110
+S 110
+f 3
+l 11
+EOR
+
+K f
+I GICD_IPRIORITYR
+F 3
+L 118
+S 118
+f 4
+l 27
+EOR
+
+K f
+I GICD_IPRIORITYR
+F 3
+L 123
+S 123
+f 4
+l 27
+EOR
+
+K o
+I GICC_IAR
+F 3
+L 136
+S 136
+f 4
+l 33
+EOR
+
+K o
+I GICC_EOIR
+F 3
+L 144
+S 144
+f 4
+l 34
+EOR
+
+K f
+I DSB
+F 3
+L 145
+S 145
+f 5
+l 57
+EOR
+

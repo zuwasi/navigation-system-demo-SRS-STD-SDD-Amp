@@ -1,0 +1,1681 @@
+PProDataFile version 3.3
+
+H 0 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stdint-gcc.h
+
+H 1 Command line
+
+K o
+I __INT8_TYPE__
+F 0
+L 34
+S 34
+f 1
+l -1
+EOR
+
+K o
+I __INT16_TYPE__
+F 0
+L 37
+S 37
+f 1
+l -1
+EOR
+
+K o
+I __INT32_TYPE__
+F 0
+L 40
+S 40
+f 1
+l -1
+EOR
+
+K o
+I __INT64_TYPE__
+F 0
+L 43
+S 43
+f 1
+l -1
+EOR
+
+K o
+I __UINT8_TYPE__
+F 0
+L 46
+S 46
+f 1
+l -1
+EOR
+
+K o
+I __UINT16_TYPE__
+F 0
+L 49
+S 49
+f 1
+l -1
+EOR
+
+K o
+I __UINT32_TYPE__
+F 0
+L 52
+S 52
+f 1
+l -1
+EOR
+
+K o
+I __UINT64_TYPE__
+F 0
+L 55
+S 55
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST8_TYPE__
+F 0
+L 60
+S 60
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST16_TYPE__
+F 0
+L 61
+S 61
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST32_TYPE__
+F 0
+L 62
+S 62
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST64_TYPE__
+F 0
+L 63
+S 63
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST8_TYPE__
+F 0
+L 64
+S 64
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST16_TYPE__
+F 0
+L 65
+S 65
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST32_TYPE__
+F 0
+L 66
+S 66
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST64_TYPE__
+F 0
+L 67
+S 67
+f 1
+l -1
+EOR
+
+K o
+I __INT_FAST8_TYPE__
+F 0
+L 71
+S 71
+f 1
+l -1
+EOR
+
+K o
+I __INT_FAST16_TYPE__
+F 0
+L 72
+S 72
+f 1
+l -1
+EOR
+
+K o
+I __INT_FAST32_TYPE__
+F 0
+L 73
+S 73
+f 1
+l -1
+EOR
+
+K o
+I __INT_FAST64_TYPE__
+F 0
+L 74
+S 74
+f 1
+l -1
+EOR
+
+K o
+I __UINT_FAST8_TYPE__
+F 0
+L 75
+S 75
+f 1
+l -1
+EOR
+
+K o
+I __UINT_FAST16_TYPE__
+F 0
+L 76
+S 76
+f 1
+l -1
+EOR
+
+K o
+I __UINT_FAST32_TYPE__
+F 0
+L 77
+S 77
+f 1
+l -1
+EOR
+
+K o
+I __UINT_FAST64_TYPE__
+F 0
+L 78
+S 78
+f 1
+l -1
+EOR
+
+K o
+I __INTPTR_TYPE__
+F 0
+L 83
+S 83
+f 1
+l -1
+EOR
+
+K o
+I __UINTPTR_TYPE__
+F 0
+L 86
+S 86
+f 1
+l -1
+EOR
+
+K o
+I __INTMAX_TYPE__
+F 0
+L 91
+S 91
+f 1
+l -1
+EOR
+
+K o
+I __UINTMAX_TYPE__
+F 0
+L 92
+S 92
+f 1
+l -1
+EOR
+
+H 2 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stddef.h
+
+K o
+I __PTRDIFF_TYPE__
+F 2
+L 145
+S 145
+f 1
+l -1
+EOR
+
+K o
+I __SIZE_TYPE__
+F 2
+L 214
+S 214
+f 1
+l -1
+EOR
+
+K o
+I __WCHAR_TYPE__
+F 2
+L 329
+S 329
+f 1
+l -1
+EOR
+
+H 3 C:\elbit-demo\embedded code\drivers\ble_driver.h
+
+K o
+I BLE_MAC_ADDR_LEN
+F 3
+L 44
+S 44
+f 3
+l 40
+EOR
+
+K o
+I BLE_MAX_PAYLOAD_SIZE
+F 3
+L 51
+S 51
+f 3
+l 38
+EOR
+
+K o
+I BLE_MAX_DEVICE_NAME
+F 3
+L 58
+S 58
+f 3
+l 39
+EOR
+
+H 4 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stdbool.h
+
+K o
+I bool
+F 3
+L 63
+S 63
+f 4
+l 36
+EOR
+
+H 5 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\machine\_default_types.h
+
+K o
+I __INT8_TYPE__
+F 5
+L 41
+S 41
+f 1
+l -1
+EOR
+
+K o
+I __UINT8_TYPE__
+F 5
+L 43
+S 43
+f 1
+l -1
+EOR
+
+K o
+I __INT16_TYPE__
+F 5
+L 55
+S 55
+f 1
+l -1
+EOR
+
+K o
+I __UINT16_TYPE__
+F 5
+L 57
+S 57
+f 1
+l -1
+EOR
+
+K o
+I __INT32_TYPE__
+F 5
+L 77
+S 77
+f 1
+l -1
+EOR
+
+K o
+I __UINT32_TYPE__
+F 5
+L 79
+S 79
+f 1
+l -1
+EOR
+
+K o
+I __INT64_TYPE__
+F 5
+L 103
+S 103
+f 1
+l -1
+EOR
+
+K o
+I __UINT64_TYPE__
+F 5
+L 105
+S 105
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST8_TYPE__
+F 5
+L 134
+S 134
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST8_TYPE__
+F 5
+L 136
+S 136
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST16_TYPE__
+F 5
+L 160
+S 160
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST16_TYPE__
+F 5
+L 162
+S 162
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST32_TYPE__
+F 5
+L 182
+S 182
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST32_TYPE__
+F 5
+L 184
+S 184
+f 1
+l -1
+EOR
+
+K o
+I __INT_LEAST64_TYPE__
+F 5
+L 200
+S 200
+f 1
+l -1
+EOR
+
+K o
+I __UINT_LEAST64_TYPE__
+F 5
+L 202
+S 202
+f 1
+l -1
+EOR
+
+K o
+I __INTMAX_TYPE__
+F 5
+L 214
+S 214
+f 1
+l -1
+EOR
+
+K o
+I __UINTMAX_TYPE__
+F 5
+L 222
+S 222
+f 1
+l -1
+EOR
+
+K o
+I __INTPTR_TYPE__
+F 5
+L 230
+S 230
+f 1
+l -1
+EOR
+
+K o
+I __UINTPTR_TYPE__
+F 5
+L 232
+S 232
+f 1
+l -1
+EOR
+
+K o
+I __WINT_TYPE__
+F 2
+L 359
+S 359
+f 1
+l -1
+EOR
+
+H 6 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\_types.h
+
+K o
+I __SIZE_TYPE__
+F 6
+L 131
+S 131
+f 1
+l -1
+EOR
+
+K o
+I __SIZE_TYPE__
+F 6
+L 147
+S 147
+f 1
+l -1
+EOR
+
+K o
+I _CLOCK_T_
+F 6
+L 182
+S 182
+f 6
+l 179
+EOR
+
+K o
+I _TIME_T_
+F 6
+L 189
+S 189
+f 6
+l 185
+EOR
+
+K o
+I _CLOCKID_T_
+F 6
+L 195
+S 195
+f 6
+l 192
+EOR
+
+K o
+I _TIMER_T_
+F 6
+L 202
+S 202
+f 6
+l 201
+EOR
+
+H 7 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\reent.h
+
+K o
+I __Long
+F 7
+L 23
+S 23
+f 7
+l 22
+EOR
+
+H 8 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\lock.h
+
+K o
+I _LOCK_RECURSIVE_T
+F 7
+L 36
+S 36
+f 8
+l 35
+EOR
+
+K o
+I _ATEXIT_SIZE
+F 7
+L 81
+S 81
+f 7
+l 78
+EOR
+
+K o
+I _ATEXIT_SIZE
+F 7
+L 82
+S 82
+f 7
+l 78
+EOR
+
+K o
+I _ATEXIT_SIZE
+F 7
+L 103
+S 103
+f 7
+l 78
+EOR
+
+H 9 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\config.h
+
+K o
+I _READ_WRITE_RETURN_TYPE
+F 7
+L 169
+S 169
+f 9
+l 259
+EOR
+
+K o
+I _READ_WRITE_BUFSIZE_TYPE
+F 7
+L 170
+S 170
+f 9
+l 265
+EOR
+
+K o
+I _READ_WRITE_RETURN_TYPE
+F 7
+L 171
+S 171
+f 9
+l 259
+EOR
+
+K o
+I _READ_WRITE_BUFSIZE_TYPE
+F 7
+L 173
+S 173
+f 9
+l 265
+EOR
+
+K o
+I _REENT_EMERGENCY_SIZE
+F 7
+L 578
+S 578
+f 7
+l 317
+EOR
+
+K o
+I _REENT_ASCTIME_SIZE
+F 7
+L 609
+S 609
+f 7
+l 318
+EOR
+
+K o
+I _REENT_SIGNAL_SIZE
+F 7
+L 618
+S 618
+f 7
+l 319
+EOR
+
+K o
+I __ATTRIBUTE_IMPURE_PTR__
+F 7
+L 782
+S 782
+f 7
+l 779
+EOR
+
+K o
+I __ATTRIBUTE_IMPURE_DATA__
+F 7
+L 788
+S 788
+f 7
+l 785
+EOR
+
+H 10 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\string.h
+
+H 11 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\_ansi.h
+
+K o
+I _BEGIN_STD_C
+F 10
+L 27
+S 27
+f 11
+l 31
+EOR
+
+H 12 C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\cdefs.h
+
+K o
+I __restrict
+F 10
+L 31
+S 31
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 31
+S 31
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 34
+S 34
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 34
+S 34
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 38
+S 38
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 38
+S 38
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 42
+S 42
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 42
+S 42
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 44
+S 44
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 44
+S 44
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 50
+S 50
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 50
+S 50
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 52
+S 52
+f 12
+l 421
+EOR
+
+K o
+I __restrict
+F 10
+L 52
+S 52
+f 12
+l 421
+EOR
+
+K o
+I _END_STD_C
+F 10
+L 177
+S 177
+f 11
+l 32
+EOR
+
+H 13 C:\elbit-demo\embedded code\drivers\ble_driver.c
+
+K o
+I BLE_EVENT_QUEUE_SIZE
+F 13
+L 70
+S 70
+f 13
+l 61
+EOR
+
+K o
+I bool
+F 13
+L 73
+S 73
+f 4
+l 36
+EOR
+
+K o
+I BLE_MAX_PAYLOAD_SIZE
+F 13
+L 74
+S 74
+f 3
+l 38
+EOR
+
+K o
+I bool
+F 13
+L 76
+S 76
+f 4
+l 36
+EOR
+
+K o
+I bool
+F 13
+L 77
+S 77
+f 4
+l 36
+EOR
+
+K o
+I false
+F 13
+L 83
+S 83
+f 4
+l 38
+EOR
+
+K o
+I false
+F 13
+L 86
+S 86
+f 4
+l 38
+EOR
+
+K o
+I false
+F 13
+L 87
+S 87
+f 4
+l 38
+EOR
+
+K o
+I bool
+F 13
+L 92
+S 92
+f 4
+l 36
+EOR
+
+H 14 C:\elbit-demo\embedded code\include\types.h
+
+K f
+I IS_NULL_PTR
+F 13
+L 103
+S 103
+f 14
+l 46
+EOR
+
+K f
+I IS_NULL_PTR
+F 13
+L 103
+S 103
+f 14
+l 46
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 109
+S 109
+f 13
+l 33
+EOR
+
+K o
+I BLE_CTRL_RESET
+F 13
+L 112
+S 112
+f 13
+l 37
+EOR
+
+K f
+I BIT_SET
+F 13
+L 112
+S 112
+f 14
+l 50
+EOR
+
+K o
+I BLE_CTRL_RESET
+F 13
+L 121
+S 121
+f 13
+l 37
+EOR
+
+K f
+I BIT_CLEAR
+F 13
+L 121
+S 121
+f 14
+l 51
+EOR
+
+K o
+I BLE_STATUS_READY
+F 13
+L 125
+S 125
+f 13
+l 44
+EOR
+
+K f
+I BIT_CHECK
+F 13
+L 125
+S 125
+f 14
+l 53
+EOR
+
+K o
+I BLE_INT_CONNECTED
+F 13
+L 160
+S 160
+f 13
+l 52
+EOR
+
+K o
+I BLE_INT_DISCONNECTED
+F 13
+L 161
+S 161
+f 13
+l 53
+EOR
+
+K o
+I BLE_INT_RX_DONE
+F 13
+L 162
+S 162
+f 13
+l 54
+EOR
+
+K o
+I BLE_INT_TX_DONE
+F 13
+L 163
+S 163
+f 13
+l 55
+EOR
+
+K o
+I BLE_INT_ERROR
+F 13
+L 164
+S 164
+f 13
+l 58
+EOR
+
+H 15 C:\elbit-demo\embedded code\include\arm_a7_regs.h
+
+K o
+I IRQ_BLE
+F 13
+L 166
+S 166
+f 15
+l 83
+EOR
+
+K o
+I IRQ_BLE
+F 13
+L 167
+S 167
+f 15
+l 83
+EOR
+
+K o
+I BLE_CTRL_ENABLE
+F 13
+L 171
+S 171
+f 13
+l 36
+EOR
+
+K f
+I BIT_SET
+F 13
+L 171
+S 171
+f 14
+l 50
+EOR
+
+K o
+I true
+F 13
+L 174
+S 174
+f 4
+l 37
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 196
+S 196
+f 13
+l 33
+EOR
+
+K o
+I IRQ_BLE
+F 13
+L 200
+S 200
+f 15
+l 83
+EOR
+
+K o
+I BLE_CTRL_ENABLE
+F 13
+L 203
+S 203
+f 13
+l 36
+EOR
+
+K f
+I BIT_CLEAR
+F 13
+L 203
+S 203
+f 14
+l 51
+EOR
+
+K o
+I false
+F 13
+L 206
+S 206
+f 4
+l 38
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 230
+S 230
+f 13
+l 33
+EOR
+
+K o
+I BLE_CTRL_ADV_START
+F 13
+L 232
+S 232
+f 13
+l 38
+EOR
+
+K f
+I BIT_SET
+F 13
+L 232
+S 232
+f 14
+l 50
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 260
+S 260
+f 13
+l 33
+EOR
+
+K o
+I BLE_CTRL_ADV_START
+F 13
+L 262
+S 262
+f 13
+l 38
+EOR
+
+K f
+I BIT_CLEAR
+F 13
+L 262
+S 262
+f 14
+l 51
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 291
+S 291
+f 13
+l 33
+EOR
+
+K o
+I BLE_CTRL_SCAN_START
+F 13
+L 293
+S 293
+f 13
+l 39
+EOR
+
+K f
+I BIT_SET
+F 13
+L 293
+S 293
+f 14
+l 50
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 317
+S 317
+f 13
+l 33
+EOR
+
+K o
+I BLE_CTRL_SCAN_START
+F 13
+L 319
+S 319
+f 13
+l 39
+EOR
+
+K f
+I BIT_CLEAR
+F 13
+L 319
+S 319
+f 14
+l 51
+EOR
+
+K f
+I IS_NULL_PTR
+F 13
+L 333
+S 333
+f 14
+l 46
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 348
+S 348
+f 13
+l 33
+EOR
+
+K o
+I BLE_CTRL_CONN_INIT
+F 13
+L 361
+S 361
+f 13
+l 40
+EOR
+
+K f
+I BIT_SET
+F 13
+L 361
+S 361
+f 14
+l 50
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 385
+S 385
+f 13
+l 33
+EOR
+
+K o
+I BLE_CTRL_CONN_INIT
+F 13
+L 387
+S 387
+f 13
+l 40
+EOR
+
+K f
+I BIT_CLEAR
+F 13
+L 387
+S 387
+f 14
+l 51
+EOR
+
+K f
+I IS_NULL_PTR
+F 13
+L 401
+S 401
+f 14
+l 46
+EOR
+
+K o
+I BLE_MAX_PAYLOAD_SIZE
+F 13
+L 405
+S 405
+f 3
+l 38
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 419
+S 419
+f 13
+l 33
+EOR
+
+K o
+I BLE_STATUS_TX_BUSY
+F 13
+L 423
+S 423
+f 13
+l 48
+EOR
+
+K f
+I BIT_CHECK
+F 13
+L 423
+S 423
+f 14
+l 53
+EOR
+
+K o
+I false
+F 13
+L 444
+S 444
+f 4
+l 38
+EOR
+
+K o
+I BLE_CTRL_TX_START
+F 13
+L 445
+S 445
+f 13
+l 41
+EOR
+
+K f
+I BIT_SET
+F 13
+L 445
+S 445
+f 14
+l 50
+EOR
+
+K f
+I IS_NULL_PTR
+F 13
+L 467
+S 467
+f 14
+l 46
+EOR
+
+K o
+I BLE_EVENT_QUEUE_SIZE
+F 13
+L 489
+S 489
+f 13
+l 61
+EOR
+
+K o
+I bool
+F 13
+L 508
+S 508
+f 4
+l 36
+EOR
+
+K o
+I bool
+F 13
+L 510
+S 510
+f 4
+l 36
+EOR
+
+K o
+I false
+F 13
+L 510
+S 510
+f 4
+l 38
+EOR
+
+K o
+I BLE_EVENT_QUEUE_SIZE
+F 13
+L 517
+S 517
+f 13
+l 61
+EOR
+
+K o
+I true
+F 13
+L 518
+S 518
+f 4
+l 37
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 529
+S 529
+f 13
+l 33
+EOR
+
+K o
+I BLE_MAX_PAYLOAD_SIZE
+F 13
+L 532
+S 532
+f 3
+l 38
+EOR
+
+K o
+I BLE_MAX_PAYLOAD_SIZE
+F 13
+L 534
+S 534
+f 3
+l 38
+EOR
+
+K o
+I true
+F 13
+L 544
+S 544
+f 4
+l 37
+EOR
+
+K o
+I false
+F 13
+L 557
+S 557
+f 4
+l 38
+EOR
+
+K f
+I IS_VALID_PTR
+F 13
+L 564
+S 564
+f 14
+l 47
+EOR
+
+K f
+I IS_VALID_PTR
+F 13
+L 573
+S 573
+f 14
+l 47
+EOR
+
+K o
+I BLE_REGS
+F 13
+L 585
+S 585
+f 13
+l 33
+EOR
+
+K o
+I BLE_INT_CONNECTED
+F 13
+L 590
+S 590
+f 13
+l 52
+EOR
+
+K f
+I BIT_CHECK
+F 13
+L 590
+S 590
+f 14
+l 53
+EOR
+
+K o
+I BLE_INT_CONNECTED
+F 13
+L 592
+S 592
+f 13
+l 52
+EOR
+
+K o
+I BLE_INT_DISCONNECTED
+F 13
+L 601
+S 601
+f 13
+l 53
+EOR
+
+K f
+I BIT_CHECK
+F 13
+L 601
+S 601
+f 14
+l 53
+EOR
+
+K o
+I BLE_INT_DISCONNECTED
+F 13
+L 603
+S 603
+f 13
+l 53
+EOR
+
+K o
+I BLE_INT_RX_DONE
+F 13
+L 611
+S 611
+f 13
+l 54
+EOR
+
+K f
+I BIT_CHECK
+F 13
+L 611
+S 611
+f 14
+l 53
+EOR
+
+K o
+I BLE_INT_RX_DONE
+F 13
+L 613
+S 613
+f 13
+l 54
+EOR
+
+K o
+I BLE_INT_TX_DONE
+F 13
+L 618
+S 618
+f 13
+l 55
+EOR
+
+K f
+I BIT_CHECK
+F 13
+L 618
+S 618
+f 14
+l 53
+EOR
+
+K o
+I BLE_INT_TX_DONE
+F 13
+L 620
+S 620
+f 13
+l 55
+EOR
+
+K o
+I true
+F 13
+L 621
+S 621
+f 4
+l 37
+EOR
+
+K o
+I BLE_INT_ERROR
+F 13
+L 628
+S 628
+f 13
+l 58
+EOR
+
+K f
+I BIT_CHECK
+F 13
+L 628
+S 628
+f 14
+l 53
+EOR
+
+K o
+I BLE_INT_ERROR
+F 13
+L 630
+S 630
+f 13
+l 58
+EOR
+

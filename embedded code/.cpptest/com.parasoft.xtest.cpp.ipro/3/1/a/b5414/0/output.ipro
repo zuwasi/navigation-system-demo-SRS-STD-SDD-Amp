@@ -1,0 +1,29 @@
+C:\elbit-demo\embedded code\include\types.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stdint.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stdint-gcc.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stdbool.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stddef.h
+C:\elbit-demo\embedded code\include\arm_a7_regs.h
+C:\elbit-demo\embedded code\include\types.h
+C:\elbit-demo\embedded code\hal\hal_gic.h
+C:\elbit-demo\embedded code\drivers\i2c_driver.h
+C:\elbit-demo\embedded code\drivers\ble_driver.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\string.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\_ansi.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\newlib.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\_newlib_version.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\config.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\machine\ieeefp.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\features.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\reent.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\_ansi.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stddef.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\cdefs.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\machine\_default_types.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stddef.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\_types.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stddef.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\machine\_types.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\lock.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\13.2.1\include\stddef.h
+C:\arm-gcc\arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\sys\string.h

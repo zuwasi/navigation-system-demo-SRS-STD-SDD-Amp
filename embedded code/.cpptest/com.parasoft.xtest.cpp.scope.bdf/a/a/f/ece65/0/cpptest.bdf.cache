@@ -1,0 +1,6 @@
+embedded code=C:\elbit-demo\embedded code\src\main.c
+embedded code=C:\elbit-demo\embedded code\hal\hal_gic.c
+embedded code=C:\elbit-demo\embedded code\drivers\i2c_driver.c
+embedded code=C:\elbit-demo\embedded code\drivers\ble_driver.c
+#VER=2
+#CTX=-1517931959

@@ -1,0 +1,240 @@
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>CODSTA-177
+<b>An unused macro declaration 'SENSOR_ADDR_ACCEL' has been found
+<l>24
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>MISRA2004-16_9
+<b>Pointer to function 'i2c_complete_handler' should be preceded by '&' operator or followed by '()'
+<l>168
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>MISRA2004-16_9
+<b>Pointer to function 'ble_event_handler' should be preceded by '&' operator or followed by '()'
+<l>222
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>MISRA2004-14_7
+<b>'return' statement should be at the end of the 'ble_event_handler' function
+<l>60
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>MISRA2004-14_7
+<b>'return' statement should be at the end of the 'process_ble_command' function
+<l>121
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>MISRA2004-14_7
+<b>Provide only one exit point in 'app_init' function
+<l>195
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>MISRA2004-14_7
+<b>Provide only one exit point in 'app_init' function
+<l>209
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>MISRA2004-14_7
+<b>Provide only one exit point in 'app_init' function
+<l>226
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>MISRA2004-14_7
+<b>Provide only one exit point in 'app_init' function
+<l>234
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\src\main.c
+<c>CODSTA-123
+<b>The '--' operator should cause the only side effect in an expression
+<l>282
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: GICD_ISENABLER
+<l>25
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: GICD_ICENABLER
+<l>26
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: GICD_IPRIORITYR
+<l>27
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: GICD_ITARGETSR
+<l>28
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\arm_a7_regs.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: GICD_ICFGR
+<l>29
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: IS_NULL_PTR
+<l>46
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: IS_VALID_PTR
+<l>47
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: BIT_SET
+<l>50
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: BIT_CLEAR
+<l>51
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: BIT_TOGGLE
+<l>52
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: BIT_CHECK
+<l>53
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: DMB
+<l>56
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: DSB
+<l>57
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\include\types.h
+<c>MISRA2004-19_7
+<b>Do not define function-like macro: ISB
+<l>58
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

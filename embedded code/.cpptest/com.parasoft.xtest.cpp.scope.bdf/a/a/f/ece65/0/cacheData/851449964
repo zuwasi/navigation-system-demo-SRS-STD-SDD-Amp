@@ -1,0 +1,21 @@
+file=C:\elbit-demo\embedded code\src\main.c
+compiler=gcc_10-64
+working_dir=C:\elbit-demo\embedded code
+arg=arm-none-eabi-gcc
+arg=-mcpu=cortex-a7
+arg=-marm
+arg=-mfpu=neon-vfpv4
+arg=-mfloat-abi=hard
+arg=-std=c11
+arg=-ffreestanding
+arg=-fno-common
+arg=-ffunction-sections
+arg=-fdata-sections
+arg=-fno-stack-protector
+arg=-O2
+arg=-g
+arg=-Iinclude
+arg=-Ihal
+arg=-Idrivers
+arg=-c
+arg=C:\elbit-demo\embedded code\src\main.c

@@ -1,0 +1,41 @@
+codewizard.rulesAnalyzerTimeout 3600
+codewizard.errorFormat <->\n<F>%F\n<c>%c\n<b>%b\n<l>%l\n<k>%k\n<s>%ss\n<N>%N\n<f>%sf\n<L>%sl\n
+codewizard.reportSuppressedViolations on
+codewizard.removeAllRuleFiles on
+edg.p_ignore_errors on
+ipro:edg.p_ignore_errors off
+flowanalysis.generateFullScope false
+flowanalysis.generateThirdPartyCfgCode false
+flowanalysis.thirdPartyToAnalyse full.scope.name=std method.name=min method.inSubclasses=false method.params.count=-1 
+flowanalysis.thirdPartyToAnalyse full.scope.name=std method.name=max method.inSubclasses=false method.params.count=-1 
+flowanalysis.thirdPartyToAnalyse full.scope.name=std::numeric_limits<*> method.name=min method.inSubclasses=false method.params.count=0 
+flowanalysis.thirdPartyToAnalyse full.scope.name=std::numeric_limits<*> method.name=max method.inSubclasses=false method.params.count=0 
+flowanalysis.thirdPartyToAnalyse full.scope.name=ACE_*Mutex method.name=acquire method.inSubclasses=true method.params.count=-1 
+flowanalysis.thirdPartyToAnalyse full.scope.name=ACE_*Mutex method.name=release method.inSubclasses=true method.params.count=-1 
+flowanalysis.thirdPartyToAnalyse full.scope.name=ACE_*Guard method.name=#ctor method.inSubclasses=false method.params.count=-1 
+flowanalysis.thirdPartyToAnalyse full.scope.name=ACE_*Guard method.name=#dtor method.inSubclasses=true method.params.count=0 
+flowanalysis.thirdPartyToAnalyse full.scope.name=ACE_*Guard method.name=acquire method.inSubclasses=true method.params.count=-1 
+flowanalysis.thirdPartyToAnalyse full.scope.name=ACE_*Guard method.name=release method.inSubclasses=true method.params.count=-1 
+flowanalysis.thirdPartyToAnalyse full.scope.name=ACE_OS method.name=*mutex* method.inSubclasses=true method.params.count=-1 
+flowanalysis.thirdPartyToInclude full.scope.name=std::mutex method.name=lock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::mutex method.name=unlock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::mutex method.name=try_lock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_mutex method.name=lock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_mutex method.name=try_lock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_mutex method.name=unlock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_mutex method.name=lock_shared method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_mutex method.name=try_lock_shared method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_mutex method.name=unlock_shared method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_timed_mutex method.name=lock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_timed_mutex method.name=try_lock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_timed_mutex method.name=unlock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_timed_mutex method.name=lock_shared method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_timed_mutex method.name=try_lock_shared method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_timed_mutex method.name=try_lock_shared_for method.params.count=1 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_timed_mutex method.name=try_lock_shared_until method.params.count=1 
+flowanalysis.thirdPartyToInclude full.scope.name=std::shared_timed_mutex method.name=unlock_shared method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::unique_lock<*> method.name=swap method.params.count=1 
+flowanalysis.thirdPartyToInclude full.scope.name=std::_Mutex_base method.name=lock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::_Mutex_base method.name=unlock method.params.count=0 
+flowanalysis.thirdPartyToInclude full.scope.name=std::_Mutex_base method.name=try_lock method.params.count=0 
+edg.multibyte_chars_in_source_enabled on

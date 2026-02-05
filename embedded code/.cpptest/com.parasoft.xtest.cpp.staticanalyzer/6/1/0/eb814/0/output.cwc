@@ -1,0 +1,210 @@
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '8' bits, valid range is from '0' to '7' bits
+<l>445
+<k>34
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-177
+<b>An unused macro declaration 'BLE_STATUS_CONNECTED' has been found
+<l>45
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-177
+<b>An unused macro declaration 'BLE_STATUS_ADV_ACTIVE' has been found
+<l>46
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-177
+<b>An unused macro declaration 'BLE_STATUS_SCAN_ACTIVE' has been found
+<l>47
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-177
+<b>An unused macro declaration 'BLE_STATUS_RX_READY' has been found
+<l>49
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-177
+<b>An unused macro declaration 'BLE_INT_ADV_DONE' has been found
+<l>56
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-177
+<b>An unused macro declaration 'BLE_INT_SCAN_RESULT' has been found
+<l>57
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>109
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>196
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>230
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>260
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>291
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>317
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>348
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>385
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>419
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>529
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'ble_regs_t *'
+<l>585
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-123
+<b>The '--' operator should cause the only side effect in an expression
+<l>118
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-152
+<b>Composite expression with 'signed' essential type category shall not be cast to different essential type category 'unsigned'
+<l>141
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\ble_driver.c
+<c>CODSTA-152
+<b>Composite expression with 'unsigned' essential type category and size of '16' bits shall not be cast to wider essential type of '32' bits
+<l>144
+<k>30
+<s>false
+<N>
+<f>
+<L>0

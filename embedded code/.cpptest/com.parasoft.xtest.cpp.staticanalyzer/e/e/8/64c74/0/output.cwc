@@ -1,0 +1,210 @@
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '15' bits, valid range is from '0' to '7' bits
+<l>66
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '15' bits, valid range is from '0' to '7' bits
+<l>67
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>106
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '9' bits, valid range is from '0' to '7' bits
+<l>116
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>116
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '8' bits, valid range is from '0' to '7' bits
+<l>183
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '9' bits, valid range is from '0' to '7' bits
+<l>191
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>338
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>353
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>453
+<k>37
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>501
+<k>38
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>535
+<k>38
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>550
+<k>32
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>MISRAC2012-RULE_12_2-b
+<b>Do not shift by '10' bits, valid range is from '0' to '7' bits
+<l>552
+<k>30
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'i2c_regs_t *'
+<l>32
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>CODSTA-127
+<b>Integral type 'unsigned int' should not be converted to pointer to object type 'i2c_regs_t *'
+<l>33
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>CODSTA-156_a
+<b>Essential type of LHS operand (32 bit) is wider than essential type of composite expression in RHS operand (8 bit)
+<l>166
+<k>28
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>CODSTA-169_b
+<b>The second clause of a 'for' statement contains an object that is modified inside the loop body:  'result'
+<l>279
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>CODSTA-169_b
+<b>The second clause of a 'for' statement contains an object that is modified inside the loop body:  'result'
+<l>348
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>CODSTA-169_b
+<b>The second clause of a 'for' statement contains an object that is modified inside the loop body:  'result'
+<l>279
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\elbit-demo\embedded code\drivers\i2c_driver.c
+<c>CODSTA-169_b
+<b>The second clause of a 'for' statement contains an object that is modified inside the loop body:  'result'
+<l>348
+<k>13
+<s>false
+<N>
+<f>
+<L>0

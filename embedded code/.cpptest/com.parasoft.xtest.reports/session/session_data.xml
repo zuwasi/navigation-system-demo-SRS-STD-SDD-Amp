@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ResultsSession>
+   <Goals>
+      <HistoryData goals="" startTime="1770287062372" total="50" tsks=""/>
+   </Goals>
+   <CodingStandards>
+      <HistoryData authTsks="91" authors="danie" cvdLn="2205" startTime="1770287062372" totLn="2205" totTsks="91"/>
+   </CodingStandards>
+   <Statistics>
+      <HistoryData checkerIds="results.processors;scope.filters;reports;analyzers" ids="results.processors;scope.filters;reports;analyzers;session_total_time" nums="0;0;0;0;6" startTime="1770287062372"/>
+   </Statistics>
+</ResultsSession>
